@@ -1,0 +1,18 @@
+a {
+    color: red;
+  }
+  
+  /* 
+  millones 
+  */
+  
+  div a {
+    color: blue;
+  }
+  
+  div a:nth-child(2n) {
+    color: blueviolet;
+  }
+  
+  nav div a {
+    color: green;
